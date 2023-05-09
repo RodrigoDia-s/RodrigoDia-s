@@ -1,5 +1,5 @@
 
-<h1 align="center" Olá 👋, eu sou Rodrigo Oliveira</h1>
+<h1 align="center"> Olá 👋, eu sou Rodrigo Oliveira</h1>
 <h3 align="center">Um desenvolvedor e entusiasta em tecnologia de Barueri</h3>
 
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Boy.png">
