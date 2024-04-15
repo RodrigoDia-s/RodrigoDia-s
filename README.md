@@ -8,7 +8,7 @@
 
 - 🔭 Estou atualmente atuando em projetos pessoais: **Java, React, Spring**
 
-- 🌱 Atualmente estou estudando **React**
+- 🌱 Atualmente estou estudando **Spring boot**
 
 - 👯 Busco atuar em projetos aonde possa **compartilhar conhecimento**
 
